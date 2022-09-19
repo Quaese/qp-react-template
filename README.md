@@ -1,4 +1,4 @@
-# QP-React-Template
+# qp-react-template
 
 Folder structure for react projects.
 
